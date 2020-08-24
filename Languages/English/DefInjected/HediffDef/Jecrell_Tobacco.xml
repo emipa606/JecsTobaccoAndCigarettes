@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jecs_NicotineHigh.label>high on nicotine</Jecs_NicotineHigh.label>
+  <Jecs_NicotineHigh.description>high on nicotine</Jecs_NicotineHigh.description>
+
+
+  <!-- Nicotine addiction -->
+
+  <Jecs_NicotineTolerance.label>Nicotine tolerance</Jecs_NicotineTolerance.label>
+  <Jecs_NicotineTolerance.description>Nicotine tolerance</Jecs_NicotineTolerance.description>
+
+  <Jecs_NicotineAddiction.label>Nicotine dependence</Jecs_NicotineAddiction.label>
+  <Jecs_NicotineAddiction.description>Nicotine dependence</Jecs_NicotineAddiction.description>
+  <Jecs_NicotineAddiction.stages.1.label>withdrawal</Jecs_NicotineAddiction.stages.1.label>
+
+
+</LanguageData>

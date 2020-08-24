@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jecs_TobaccoCigar.label>cigar</Jecs_TobaccoCigar.label>
+  <Jecs_TobaccoCigar.description>Cigar use can produce a dependency for nicotine. Can be produced without equipment, at a crafting spot.</Jecs_TobaccoCigar.description>
+  <Jecs_TobaccoCigar.ingestible.ingestCommandString>Smoke {0}</Jecs_TobaccoCigar.ingestible.ingestCommandString>
+  <Jecs_TobaccoCigar.ingestible.ingestReportString>Smoking {0}.</Jecs_TobaccoCigar.ingestible.ingestReportString>
+
+
+</LanguageData>

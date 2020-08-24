@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jecs_TobaccoCigarette.label>cigarette</Jecs_TobaccoCigarette.label>
+  <Jecs_TobaccoCigarette.description>Tobacco use can produce a dependency. Can be produced without equipment, at a crafting spot.</Jecs_TobaccoCigarette.description>
+  <Jecs_TobaccoCigarette.ingestible.ingestCommandString>Smoke {0}</Jecs_TobaccoCigarette.ingestible.ingestCommandString>
+  <Jecs_TobaccoCigarette.ingestible.ingestReportString>Smoking {0}.</Jecs_TobaccoCigarette.ingestible.ingestReportString>
+
+  <Jecs_SnusPortion.label>snus</Jecs_SnusPortion.label>
+  <Jecs_SnusPortion.description>Tobacco use can produce a dependency. Can be produced without equipment, at a crafting spot.</Jecs_SnusPortion.description>
+  <Jecs_SnusPortion.ingestible.ingestCommandString>Enjoy {0}</Jecs_SnusPortion.ingestible.ingestCommandString>
+  <Jecs_SnusPortion.ingestible.ingestReportString>Enjoying {0}.</Jecs_SnusPortion.ingestible.ingestReportString>
+
+
+</LanguageData>
