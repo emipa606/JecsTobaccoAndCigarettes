@@ -10,7 +10,7 @@
     </graphicData>
     <rotatable>false</rotatable>
     <statBases>
-      <WorkToMake>200</WorkToMake>
+      <WorkToMake>300</WorkToMake>
       <MarketValue>10</MarketValue>
       <Mass>0.005</Mass>
     </statBases>
@@ -64,7 +64,7 @@
       </recipeUsers>
     </recipeMaker>
     <costList>
-      <Jecs_TobaccoLeaves>3</Jecs_TobaccoLeaves>
+      <Jecs_TobaccoLeaves>5</Jecs_TobaccoLeaves>
     </costList>
     <comps>
       <li Class="CompProperties_Drug">

@@ -11,7 +11,7 @@
     <rotatable>false</rotatable>
     <statBases>
       <Mass>0.2</Mass>
-      <WorkToMake>210</WorkToMake>
+      <WorkToMake>350</WorkToMake>
       <MarketValue>20</MarketValue>
     </statBases>
     <techLevel>Neolithic</techLevel>
@@ -64,7 +64,7 @@
       </recipeUsers>
     </recipeMaker>
     <costList>
-      <Jecs_TobaccoLeaves>10</Jecs_TobaccoLeaves>
+      <Jecs_TobaccoLeaves>5</Jecs_TobaccoLeaves>
       <Chocolate>1</Chocolate>
     </costList>
     <comps>

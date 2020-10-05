@@ -6,7 +6,7 @@
     <description>Makes five cigars for your colonists' nicotine-infused habits.</description>
     <jobString>Rolling cigars</jobString>
     <workSpeedStat>DrugCookingSpeed</workSpeedStat>
-    <workAmount>350</workAmount>
+    <workAmount>1500</workAmount>
     <requiredGiverWorkType>Crafting</requiredGiverWorkType>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_CookMeal</soundWorking>
@@ -17,7 +17,7 @@
             <li>Jecs_TobaccoLeaves</li>
           </thingDefs>
         </filter>
-        <count>15</count>
+        <count>25</count>
       </li>
     </ingredients>
     <products>
@@ -50,7 +50,7 @@
     <description>Makes five chocolate cigars for your colonists' nicotine-infused habits.</description>
     <jobString>Rolling cigars</jobString>
     <workSpeedStat>DrugCookingSpeed</workSpeedStat>
-    <workAmount>350</workAmount>
+    <workAmount>1750</workAmount>
     <requiredGiverWorkType>Crafting</requiredGiverWorkType>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_CookMeal</soundWorking>
@@ -61,7 +61,7 @@
             <li>Jecs_TobaccoLeaves</li>
           </thingDefs>
         </filter>
-        <count>15</count>
+        <count>25</count>
       </li>
       <li>
         <filter>
@@ -104,7 +104,7 @@
     <description>Makes five cigarettes for your colonists' nicotine-infused habits.</description>
     <jobString>Rolling cigarettes</jobString>
     <workSpeedStat>DrugCookingSpeed</workSpeedStat>
-    <workAmount>200</workAmount>
+    <workAmount>1000</workAmount>
     <requiredGiverWorkType>Crafting</requiredGiverWorkType>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_CookMeal</soundWorking>
@@ -115,7 +115,7 @@
             <li>Jecs_TobaccoLeaves</li>
           </thingDefs>
         </filter>
-        <count>10</count>
+        <count>15</count>
       </li>
     </ingredients>
     <products>
@@ -148,7 +148,7 @@
     <description>Makes a pack of snus for your colonists' nicotine-infused habits.</description>
     <jobString>Making snus</jobString>
     <workSpeedStat>DrugCookingSpeed</workSpeedStat>
-    <workAmount>200</workAmount>
+    <workAmount>1000</workAmount>
     <requiredGiverWorkType>Crafting</requiredGiverWorkType>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_CookMeal</soundWorking>
@@ -159,7 +159,7 @@
             <li>Jecs_TobaccoLeaves</li>
           </thingDefs>
         </filter>
-        <count>10</count>
+        <count>15</count>
       </li>
     </ingredients>
     <products>
@@ -192,7 +192,7 @@
     <description>Makes a standard pack of twenty cigarettes for your colonists' nicotine-infused habits.</description>
     <jobString>Rolling cigarettes</jobString>
     <workSpeedStat>DrugCookingSpeed</workSpeedStat>
-    <workAmount>350</workAmount>
+    <workAmount>4000</workAmount>
     <requiredGiverWorkType>Crafting</requiredGiverWorkType>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_CookMeal</soundWorking>
@@ -203,7 +203,7 @@
             <li>Jecs_TobaccoLeaves</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>60</count>
       </li>
     </ingredients>
     <products>
@@ -236,7 +236,7 @@
     <description>Makes a stock of snus for your colonists' nicotine-infused habits.</description>
     <jobString>Making snus</jobString>
     <workSpeedStat>DrugCookingSpeed</workSpeedStat>
-    <workAmount>350</workAmount>
+    <workAmount>6000</workAmount>
     <requiredGiverWorkType>Crafting</requiredGiverWorkType>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_CookMeal</soundWorking>
@@ -247,7 +247,7 @@
             <li>Jecs_TobaccoLeaves</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>60</count>
       </li>
     </ingredients>
     <products>

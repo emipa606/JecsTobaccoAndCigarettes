@@ -10,7 +10,7 @@
     </graphicData>
     <rotatable>false</rotatable>
     <statBases>
-      <WorkToMake>60</WorkToMake>
+      <WorkToMake>200</WorkToMake>
       <MarketValue>6</MarketValue>
       <Mass>0.0025</Mass>
     </statBases>
@@ -65,7 +65,7 @@
       </recipeUsers>
     </recipeMaker>
     <costList>
-      <Jecs_TobaccoLeaves>1</Jecs_TobaccoLeaves>
+      <Jecs_TobaccoLeaves>3</Jecs_TobaccoLeaves>
     </costList>
     <comps>
       <li Class="CompProperties_Drug">
@@ -88,7 +88,7 @@
     </graphicData>
     <rotatable>false</rotatable>
     <statBases>
-      <WorkToMake>60</WorkToMake>
+      <WorkToMake>300</WorkToMake>
       <MarketValue>6</MarketValue>
       <Mass>0.0025</Mass>
     </statBases>
@@ -143,7 +143,7 @@
       </recipeUsers>
     </recipeMaker>
     <costList>
-      <Jecs_TobaccoLeaves>1</Jecs_TobaccoLeaves>
+      <Jecs_TobaccoLeaves>3</Jecs_TobaccoLeaves>
     </costList>
     <comps>
       <li Class="CompProperties_Drug">
@@ -166,7 +166,8 @@
     <maxSeverity>1.0</maxSeverity>
     <comps>
       <li Class="HediffCompProperties_SeverityPerDay">
-        <severityPerDay>-0.40</severityPerDay>
+        <severityPerDay>-1.75</severityPerDay>
+        <showHoursToRecover>true</showHoursToRecover>
       </li>
     </comps>
     <stages>
