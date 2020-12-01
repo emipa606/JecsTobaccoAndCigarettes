@@ -42,6 +42,7 @@
     <workSkill>Crafting</workSkill>
     <recipeUsers>
       <li>CraftingSpot</li>
+      <li>DrugLab</li>
     </recipeUsers>
   </RecipeDef>
   <RecipeDef Name="Jecs_RollCigarChocolatePack">
@@ -96,6 +97,7 @@
     <workSkill>Crafting</workSkill>
     <recipeUsers>
       <li>CraftingSpot</li>
+      <li>DrugLab</li>
     </recipeUsers>
   </RecipeDef>
   <RecipeDef Name="Jecs_RollCigarettes">
@@ -140,6 +142,7 @@
     <workSkill>Crafting</workSkill>
     <recipeUsers>
       <li>CraftingSpot</li>
+      <li>DrugLab</li>
     </recipeUsers>
   </RecipeDef>
   <RecipeDef Name="Jecs_MakeSnusPack">
@@ -184,6 +187,7 @@
     <workSkill>Crafting</workSkill>
     <recipeUsers>
       <li>CraftingSpot</li>
+      <li>DrugLab</li>
     </recipeUsers>
   </RecipeDef>
   <RecipeDef Name="Jecs_RollCigarettePack">
@@ -228,6 +232,7 @@
     <workSkill>Crafting</workSkill>
     <recipeUsers>
       <li>CraftingSpot</li>
+      <li>DrugLab</li>
     </recipeUsers>
   </RecipeDef>
   <RecipeDef Name="Jecs_MakeSnusStock">
@@ -272,6 +277,7 @@
     <workSkill>Crafting</workSkill>
     <recipeUsers>
       <li>CraftingSpot</li>
+      <li>DrugLab</li>
     </recipeUsers>
   </RecipeDef>
 </Defs>

@@ -11,33 +11,52 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of Jecrells mod
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Jecrells mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=764301651
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
-
-Support-chat:
-https://invite.gg/mlie
-
-Non-steam version:
-https://github.com/emipa606/JecsTobaccoAndCigarettes
-	
 - Added snus by request
+- Rebalanced the mod, thanks Kopp!
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/JecsTobaccoAndCigarettes][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
 Why are my gruff colonists getting high on smokeleaf? Whatever happened to tobacco, you might ask. Well, now your colonists can finally grow and harvest tobacco plants. Just like with smokeleaf joints, cigarettes can be crafted at any crafting spot. Have fun!
 
-1.2 Cigar Update!
+[h1]1.2 Cigar Update![/h1]
 Now you can add cigars to your list of smokables in RimWorld. If you have chocolate, you can sell a far more marketable 'chocolate cigar' to your loyal costumers.
 
-Further Information
+[h1]Further Information[/h1]
 
-This is not meant to be unbalanced for a vanilla game.
-This is not a replacement mod. Smokeleaf and all other drugs are unchanged.
-Tobacco actually has a chemical effect called 'Nicotine' that has very minor effects on colonists
-Tobacco's other differences --
-Higher addiction rate than smokeleaf (closer to Go-Juice)
-Lesser market value for tobacco leaves than smokeleaf (the market is flooded with the stuff)
-Smaller mood buff than smokeleaf (only +5)
-Has withdrawal symptoms unlike smokeleaf</description>
+[olist]
+[*]This is not meant to be unbalanced for a vanilla game.
+[*]This is not a replacement mod. Smokeleaf and all other drugs are unchanged.
+[*] Tobacco actually has a chemical effect called 'Nicotine' that has very minor effects on colonists
+[*] Tobacco's other differences --
+[/olist]
+[list]
+[*]Higher addiction rate than smokeleaf (closer to Go-Juice)
+[*]Lesser market value for tobacco leaves than smokeleaf (the market is flooded with the stuff)
+[*]Smaller mood buff than smokeleaf (only +5)
+[*]Has withdrawal symptoms unlike smokeleaf
+[/list]
+
+My Other Mods:
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=763418547]Introducing H.P. Lovecraft[/url].
+[url=https://ludeon.com/forums/index.php?topic=26078.0]Call of Cthulhu Expansion Pack WIP Thread[/url]
+
+Pssst~~ 
+Still there? 
+Jecrell here, lead programmer of the Call of Cthulhu mod series. 
+
+Want to buy me a coffee? Fuel my madness for mods here below. 
+https://patreon.com/jecrell</description>
 </ModMetaData>
