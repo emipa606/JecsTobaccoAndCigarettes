@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/WorkTypeDef[defName="FSFDrugs"]</xpath>
+    <!-- <success>Always</success> -->
+    <match Class="PatchOperationReplace">
+      <xpath>/Defs/RecipeDef[@Name = "Jecs_CigaretteBase"]/requiredGiverWorkType</xpath>
+      <value>
+        <requiredGiverWorkType>FSFDrugs</requiredGiverWorkType>
+      </value>
+    </match>
+  </Operation>
+</Patch>

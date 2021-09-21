@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Jecs Tobacco and Cigarettes (Continued)</name>
   <packageId>Mlie.JecsTobaccoAndCigarettes</packageId>
@@ -12,7 +12,7 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Jecrells mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=764301651
 
@@ -20,7 +20,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=764301651
 - Rebalanced the mod, thanks Kopp!
 - Added the recipes to the druglab
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
@@ -29,20 +29,20 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=764301651
 	[/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 Why are my gruff colonists getting high on smokeleaf? Whatever happened to tobacco, you might ask. Well, now your colonists can finally grow and harvest tobacco plants. Just like with smokeleaf joints, cigarettes can be crafted at any crafting spot. Have fun!
 
 [h1]1.2 Cigar Update![/h1]
-Now you can add cigars to your list of smokables in RimWorld. If you have chocolate, you can sell a far more marketable &apos;chocolate cigar&apos; to your loyal costumers.
+Now you can add cigars to your list of smokables in RimWorld. If you have chocolate, you can sell a far more marketable 'chocolate cigar' to your loyal costumers.
 
 [h1]Further Information[/h1]
 
 [olist]
 [*]This is not meant to be unbalanced for a vanilla game.
 [*]This is not a replacement mod. Smokeleaf and all other drugs are unchanged.
-[*] Tobacco actually has a chemical effect called &apos;Nicotine&apos; that has very minor effects on colonists
-[*] Tobacco&apos;s other differences --
+[*] Tobacco actually has a chemical effect called 'Nicotine' that has very minor effects on colonists
+[*] Tobacco's other differences --
 [/olist]
 [list]
 [*]Higher addiction rate than smokeleaf (closer to Go-Juice)
@@ -55,7 +55,7 @@ My Other Mods:
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=763418547]Introducing H.P. Lovecraft[/url].
 [url=https://ludeon.com/forums/index.php?topic=26078.0]Call of Cthulhu Expansion Pack WIP Thread[/url]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -66,4 +66,3 @@ My Other Mods:
 [/list]
 </description>
 </ModMetaData>
-
