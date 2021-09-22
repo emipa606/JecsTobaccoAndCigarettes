@@ -8,6 +8,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=764301651
 - Added snus by request
 - Rebalanced the mod, thanks Kopp!
 - Added the recipes to the druglab
+- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2069684319][FSF] Complex Jobs
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
