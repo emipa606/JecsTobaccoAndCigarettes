@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="RawTobacco"]</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RecipeDef/ingredients/li/filter/thingDefs[li="Jecs_TobaccoLeaves"]</xpath>
+      <value>
+        <li>RawTobacco</li>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="RawTobacco"]</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RecipeDef/fixedIngredientFilter/thingDefs[li="Jecs_TobaccoLeaves"]</xpath>
+      <value>
+        <li>RawTobacco</li>
+      </value>
+    </match>
+  </Operation>
+</Patch>
