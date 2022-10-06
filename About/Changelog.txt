@@ -1,5 +1,8 @@
 # Changelog for JecsTobaccoAndCigarettes
 
+1.4.1 - Mod updated for 1.4 and passed autotests
+
+
 1.3.1 - Added patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2007063140]VGP Garden Medicine[/url] now supporting its tobacco leaves
 
 

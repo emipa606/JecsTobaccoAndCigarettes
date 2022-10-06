@@ -9,6 +9,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=764301651
 - Rebalanced the mod, thanks Kopp!
 - Added the recipes to the druglab
 - Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2069684319][FSF] Complex Jobs
+- Added patch for https://steamcommunity.com/sharedfiles/filedetails/?id=2007063140]VGP Garden Medicine
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
@@ -54,6 +55,7 @@ https://ludeon.com/forums/index.php?topic=26078.0]Call of Cthulhu Expansion Pack
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
