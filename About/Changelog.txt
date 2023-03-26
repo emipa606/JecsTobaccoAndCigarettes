@@ -1,5 +1,8 @@
 # Changelog for JecsTobaccoAndCigarettes
 
+1.4.2 - Fixed the keep in inventory-issue
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 

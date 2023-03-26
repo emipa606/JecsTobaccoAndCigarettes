@@ -59,3 +59,4 @@ https://ludeon.com/forums/index.php?topic=26078.0]Call of Cthulhu Expansion Pack
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2208107297]Last updated 2023-03-26

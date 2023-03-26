@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="JecsDrugBase" Abstract="True" ParentName="DrugBase">
+    <stackLimit>400</stackLimit>
+    <pathCost>15</pathCost>
+    <ingestible>
+      <joyKind>Chemical</joyKind>
+    </ingestible>
+  </ThingDef>
+  <ThingDef Name="JecsMakeableDrugBase" ParentName="JecsDrugBase" Abstract="True">
+    <recipeMaker>
+      <workSpeedStat>DrugCookingSpeed</workSpeedStat>
+      <workSkill>Intellectual</workSkill>
+      <effectWorking>Cook</effectWorking>
+      <soundWorking>Recipe_CookMeal</soundWorking>
+    </recipeMaker>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef Name="Jecs_CigaretteBase" Abstract="True">
+    <workSpeedStat>DrugCookingSpeed</workSpeedStat>
+    <requiredGiverWorkType>Crafting</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workSkill>Crafting</workSkill>
+    <recipeUsers>
+      <li>CraftingSpot</li>
+      <li>DrugLab</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="Jecs_RollCigarPack" ParentName="Jecs_CigaretteBase">
+    <defName>Jecs_RollCigarPack</defName>
+    <label>make cigar pack</label>
+    <description>Makes five cigars for your colonists' nicotine-infused habits.</description>
+    <jobString>Rolling cigars</jobString>
+    <workAmount>1500</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Jecs_TobaccoLeaves</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
+    </ingredients>
+    <products>
+      <Jecs_TobaccoCigar>5</Jecs_TobaccoCigar>
+    </products>
+    <fixedIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+      </thingDefs>
+    </defaultIngredientFilter>
+  </RecipeDef>
+  <RecipeDef Name="Jecs_RollCigarChocolatePack" ParentName="Jecs_CigaretteBase">
+    <defName>Jecs_RollCigarChocolatePack</defName>
+    <label>make chocolate cigar pack</label>
+    <description>Makes five chocolate cigars for your colonists' nicotine-infused habits.</description>
+    <jobString>Rolling chocolate cigars</jobString>
+    <workAmount>1750</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Jecs_TobaccoLeaves</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chocolate</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <products>
+      <Jecs_TobaccoCigarChocolate>5</Jecs_TobaccoCigarChocolate>
+    </products>
+    <fixedIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+        <li>Chocolate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+        <li>Chocolate</li>
+      </thingDefs>
+    </defaultIngredientFilter>
+  </RecipeDef>
+  <RecipeDef Name="Jecs_RollCigarettes" ParentName="Jecs_CigaretteBase">
+    <defName>Jecs_RollCigarettes</defName>
+    <label>make cigarette mini-pack</label>
+    <description>Makes five cigarettes for your colonists' nicotine-infused habits.</description>
+    <jobString>Rolling cigarettes</jobString>
+    <workAmount>1000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Jecs_TobaccoLeaves</li>
+          </thingDefs>
+        </filter>
+        <count>15</count>
+      </li>
+    </ingredients>
+    <products>
+      <Jecs_TobaccoCigarette>5</Jecs_TobaccoCigarette>
+    </products>
+    <fixedIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+      </thingDefs>
+    </defaultIngredientFilter>
+  </RecipeDef>
+  <RecipeDef Name="Jecs_MakeSnusPack" ParentName="Jecs_CigaretteBase">
+    <defName>Jecs_MakeSnusPack</defName>
+    <label>make a pack of snus</label>
+    <description>Makes a pack of snus for your colonists' nicotine-infused habits.</description>
+    <jobString>Making snus</jobString>
+    <workAmount>1000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Jecs_TobaccoLeaves</li>
+          </thingDefs>
+        </filter>
+        <count>15</count>
+      </li>
+    </ingredients>
+    <products>
+      <Jecs_SnusPortion>5</Jecs_SnusPortion>
+    </products>
+    <fixedIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+      </thingDefs>
+    </defaultIngredientFilter>
+  </RecipeDef>
+  <RecipeDef Name="Jecs_RollCigarettePack" ParentName="Jecs_CigaretteBase">
+    <defName>Jecs_RollCigarettePack</defName>
+    <label>make cigarette pack (x20)</label>
+    <description>Makes a standard pack of twenty cigarettes for your colonists' nicotine-infused habits.</description>
+    <jobString>Rolling cigarettes</jobString>
+    <workAmount>4000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Jecs_TobaccoLeaves</li>
+          </thingDefs>
+        </filter>
+        <count>60</count>
+      </li>
+    </ingredients>
+    <products>
+      <Jecs_TobaccoCigarette>20</Jecs_TobaccoCigarette>
+    </products>
+    <fixedIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+      </thingDefs>
+    </defaultIngredientFilter>
+  </RecipeDef>
+  <RecipeDef Name="Jecs_MakeSnusStock" ParentName="Jecs_CigaretteBase">
+    <defName>Jecs_MakeSnusStock</defName>
+    <label>make a stock of snus (x20)</label>
+    <description>Makes a stock of snus for your colonists' nicotine-infused habits.</description>
+    <jobString>Making snus stock</jobString>
+    <workAmount>6000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Jecs_TobaccoLeaves</li>
+          </thingDefs>
+        </filter>
+        <count>60</count>
+      </li>
+    </ingredients>
+    <products>
+      <Jecs_SnusPortion>20</Jecs_SnusPortion>
+    </products>
+    <fixedIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <categories>
+        <li>PlantMatter</li>
+      </categories>
+      <thingDefs>
+        <li>Jecs_TobaccoLeaves</li>
+      </thingDefs>
+    </defaultIngredientFilter>
+  </RecipeDef>
+</Defs>
