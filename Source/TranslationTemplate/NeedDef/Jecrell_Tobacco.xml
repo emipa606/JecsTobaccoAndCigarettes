@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Nicotine -->
+  <Jecs_Chemical_Nicotine.label>Nicotine</Jecs_Chemical_Nicotine.label>
+  <!-- EN: Because of a developed Nicotine dependence, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+  <Jecs_Chemical_Nicotine.description>Because of a developed Nicotine dependence, this person needs to regularly consume the drug to avoid withdrawal symptoms.</Jecs_Chemical_Nicotine.description>
+</LanguageData>

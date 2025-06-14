@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2705423130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1188ca48b4baa2970d724386cf6d78f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1188ca48b4baa2970d724386cf6d78f8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.JecsTobaccoAndCigarettes/Textures/Things/Item/Drug/Tobacco/Plant/TobaccoPlantA.png
+- Assets/Data/Mlie.JecsTobaccoAndCigarettes/Textures/Things/Item/Drug/Tobacco/Cigar/TobaccoCigar_a.png
+- Assets/Data/Mlie.JecsTobaccoAndCigarettes/Textures/Things/Item/Drug/Tobacco/Cigar/TobaccoCigar_b.png
+- Assets/Data/Mlie.JecsTobaccoAndCigarettes/Textures/Things/Item/Drug/Tobacco/Snus/snus_a.png
+- Assets/Data/Mlie.JecsTobaccoAndCigarettes/Textures/Things/Item/Drug/Tobacco/Leaves/TobaccoLeaves.png
+- Assets/Data/Mlie.JecsTobaccoAndCigarettes/Textures/Things/Item/Drug/Tobacco/Chocolate/TobaccoCigarChocolate_b.png
+- Assets/Data/Mlie.JecsTobaccoAndCigarettes/Textures/Things/Item/Drug/Tobacco/RollCigarette/cigarette_b.png
+- Assets/Data/Mlie.JecsTobaccoAndCigarettes/Textures/Things/Item/Drug/Tobacco/Chocolate/TobaccoCigarChocolate_a.png
+- Assets/Data/Mlie.JecsTobaccoAndCigarettes/Textures/Things/Item/Drug/Tobacco/RollCigarette/cigarette_a.png
+- Assets/Data/Mlie.JecsTobaccoAndCigarettes/Textures/Things/Item/Drug/Tobacco/Snus/snus_b.png
+Dependencies: []

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Nicotine dependence -->
+  <Jecs_NicotineAddiction.label>Nicotine dependence</Jecs_NicotineAddiction.label>
+  <!-- EN: Nicotine dependence -->
+  <Jecs_NicotineAddiction.description>Nicotine dependence</Jecs_NicotineAddiction.description>
+  <!-- EN: withdrawal -->
+  <Jecs_NicotineAddiction.stages.withdrawal.label>withdrawal</Jecs_NicotineAddiction.stages.withdrawal.label>
+  <!-- EN: high on nicotine -->
+  <Jecs_NicotineHigh.label>high on nicotine</Jecs_NicotineHigh.label>
+  <!-- EN: high on nicotine -->
+  <Jecs_NicotineHigh.description>high on nicotine</Jecs_NicotineHigh.description>
+  <!-- EN: Nicotine tolerance -->
+  <Jecs_NicotineTolerance.label>Nicotine tolerance</Jecs_NicotineTolerance.label>
+  <!-- EN: Nicotine tolerance -->
+  <Jecs_NicotineTolerance.description>Nicotine tolerance</Jecs_NicotineTolerance.description>
+  <!-- EN: small -->
+  <Jecs_NicotineTolerance.stages.small.label>small</Jecs_NicotineTolerance.stages.small.label>
+  <!-- EN: large -->
+  <Jecs_NicotineTolerance.stages.large.label>large</Jecs_NicotineTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <Jecs_NicotineTolerance.stages.massive.label>massive</Jecs_NicotineTolerance.stages.massive.label>
+</LanguageData>

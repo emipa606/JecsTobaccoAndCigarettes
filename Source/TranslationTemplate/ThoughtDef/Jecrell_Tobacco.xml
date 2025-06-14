@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: high on nicotine -->
+  <Jecs_NicotineHigh.stages.high_on_nicotine.label>high on nicotine</Jecs_NicotineHigh.stages.high_on_nicotine.label>
+  <!-- EN: Nothing like a good smoke. -->
+  <Jecs_NicotineHigh.stages.high_on_nicotine.description>Nothing like a good smoke.</Jecs_NicotineHigh.stages.high_on_nicotine.description>
+  <!-- EN: Nicotine withdrawal -->
+  <Jecs_NicotineWithdrawal.stages.Nicotine_withdrawal.label>Nicotine withdrawal</Jecs_NicotineWithdrawal.stages.Nicotine_withdrawal.label>
+  <!-- EN: I would kill for a smoke right now. -->
+  <Jecs_NicotineWithdrawal.stages.Nicotine_withdrawal.description>I would kill for a smoke right now.</Jecs_NicotineWithdrawal.stages.Nicotine_withdrawal.description>
+</LanguageData>

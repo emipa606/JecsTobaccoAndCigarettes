@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make a pack of snus -->
+  <Jecs_MakeSnusPack.label>make a pack of snus</Jecs_MakeSnusPack.label>
+  <!-- EN: Makes a pack of snus for your colonists' nicotine-infused habits. -->
+  <Jecs_MakeSnusPack.description>Makes a pack of snus for your colonists' nicotine-infused habits.</Jecs_MakeSnusPack.description>
+  <!-- EN: Making snus -->
+  <Jecs_MakeSnusPack.jobString>Making snus</Jecs_MakeSnusPack.jobString>
+  <!-- EN: make a stock of snus (x20) -->
+  <Jecs_MakeSnusStock.label>make a stock of snus (x20)</Jecs_MakeSnusStock.label>
+  <!-- EN: Makes a stock of snus for your colonists' nicotine-infused habits. -->
+  <Jecs_MakeSnusStock.description>Makes a stock of snus for your colonists' nicotine-infused habits.</Jecs_MakeSnusStock.description>
+  <!-- EN: Making snus stock -->
+  <Jecs_MakeSnusStock.jobString>Making snus stock</Jecs_MakeSnusStock.jobString>
+  <!-- EN: make chocolate cigar pack -->
+  <Jecs_RollCigarChocolatePack.label>make chocolate cigar pack</Jecs_RollCigarChocolatePack.label>
+  <!-- EN: Makes five chocolate cigars for your colonists' nicotine-infused habits. -->
+  <Jecs_RollCigarChocolatePack.description>Makes five chocolate cigars for your colonists' nicotine-infused habits.</Jecs_RollCigarChocolatePack.description>
+  <!-- EN: Rolling chocolate cigars -->
+  <Jecs_RollCigarChocolatePack.jobString>Rolling chocolate cigars</Jecs_RollCigarChocolatePack.jobString>
+  <!-- EN: make cigarette pack (x20) -->
+  <Jecs_RollCigarettePack.label>make cigarette pack (x20)</Jecs_RollCigarettePack.label>
+  <!-- EN: Makes a standard pack of twenty cigarettes for your colonists' nicotine-infused habits. -->
+  <Jecs_RollCigarettePack.description>Makes a standard pack of twenty cigarettes for your colonists' nicotine-infused habits.</Jecs_RollCigarettePack.description>
+  <!-- EN: Rolling cigarettes -->
+  <Jecs_RollCigarettePack.jobString>Rolling cigarettes</Jecs_RollCigarettePack.jobString>
+  <!-- EN: make cigarette mini-pack -->
+  <Jecs_RollCigarettes.label>make cigarette mini-pack</Jecs_RollCigarettes.label>
+  <!-- EN: Makes five cigarettes for your colonists' nicotine-infused habits. -->
+  <Jecs_RollCigarettes.description>Makes five cigarettes for your colonists' nicotine-infused habits.</Jecs_RollCigarettes.description>
+  <!-- EN: Rolling cigarettes -->
+  <Jecs_RollCigarettes.jobString>Rolling cigarettes</Jecs_RollCigarettes.jobString>
+  <!-- EN: make cigar pack -->
+  <Jecs_RollCigarPack.label>make cigar pack</Jecs_RollCigarPack.label>
+  <!-- EN: Makes five cigars for your colonists' nicotine-infused habits. -->
+  <Jecs_RollCigarPack.description>Makes five cigars for your colonists' nicotine-infused habits.</Jecs_RollCigarPack.description>
+  <!-- EN: Rolling cigars -->
+  <Jecs_RollCigarPack.jobString>Rolling cigars</Jecs_RollCigarPack.jobString>
+</LanguageData>
